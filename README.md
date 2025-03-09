@@ -20,13 +20,13 @@ Significance: Automating the classification of iris species can assist botanists
 
 The best-performing models based on accuracy scores:
 
-# Model                    Accuracy Test (%)              
+# Model                            Accuracy Test (%)              
 
- Logistic Regression       95.55                       
+ Logistic Regression               95.55                       
 
- K-Nearest Neighbors       97.77                      
+ K-Nearest Neighbors               97.77                      
 
- Decision Tree (tuned)     97.77         
+ Decision Tree (tuned)             97.77         
 
 # Conclusion
 
